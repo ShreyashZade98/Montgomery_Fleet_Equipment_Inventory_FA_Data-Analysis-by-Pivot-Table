@@ -39,6 +39,3 @@ The Excel file contains the following sheets:
 
 Contributions are welcome. Please fork the repository and create a pull request with detailed descriptions of your changes.
 
-## License
-
-This project is licensed under the MIT License.
